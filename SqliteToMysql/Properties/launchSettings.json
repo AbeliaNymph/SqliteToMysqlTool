@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SqliteToMysql": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\Code\\FuckJava\\MybatisTest\\test(2).sql b.sql"
+    }
+  }
+}
